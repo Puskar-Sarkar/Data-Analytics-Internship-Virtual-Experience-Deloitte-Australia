@@ -1,6 +1,6 @@
 # Deloitte Australia Data Analytics Virtual Experience Program
 
-![Forage Logo]([https://forage-uploads-prod.s3.amazonaws.com/assets/forage_logo_primary_colour_cropped.png](https://cdn.cookielaw.org/logos/2d4f8bee-b269-434d-a07f-3b94c6618cb4/01906f62-d483-72ab-ab45-8cfc69fd3475/b5d95dba-8540-4977-a038-c4ebe94d0487/Navy_Wide_Logo@2x.png)
+![Forage Logo](https://forage-uploads-prod.s3.amazonaws.com/assets/forage_logo_primary_colour_cropped.png)
 
 ## 📄 Certificate of Completion
 
