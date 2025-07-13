@@ -19,6 +19,13 @@ As part of the simulation, I:
 - 📈 Used **Excel** for data classification and drawing business insights
 
 ---
+## 📊 Tableau Dashboard Preview
+
+The dashboard below was created as part of the Deloitte Data Analytics Virtual Experience.
+
+![Tableau Dashboard](tableau_dashboard.png)
+
+---
 
 ## 🔍 Skills Gained
 
